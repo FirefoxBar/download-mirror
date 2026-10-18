@@ -1,0 +1,4 @@
+# HeaderEditor
+HeaderEditor/5.5.0/v2.xpi,https://github.com/FirefoxBar/HeaderEditor/releases/download/5.5.0/HeaderEditor-5.5.0-v2.xpi
+HeaderEditor/5.5.0/v3.xpi,https://github.com/FirefoxBar/HeaderEditor/releases/download/5.5.0/HeaderEditor-5.5.0-v3.xpi
+HeaderEditor/5.5.0/v2.crx,https://github.com/FirefoxBar/HeaderEditor/releases/download/5.5.0/HeaderEditor-5.5.0-v2.crx
